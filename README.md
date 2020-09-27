@@ -8,3 +8,6 @@ Redo from : https://chatbotslife.com/text-summarization-in-python-with-gensim-pr
 
 ## Text classification :
 Redo from : https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49
+
+## Movie Recommender :
+Redo from : https://towardsdatascience.com/building-a-movie-recommender-using-python-277959b07dae
