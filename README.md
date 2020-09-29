@@ -11,3 +11,6 @@ Redo from : https://towardsdatascience.com/machine-learning-for-text-classificat
 
 ## Movie Recommender :
 Redo from : https://towardsdatascience.com/building-a-movie-recommender-using-python-277959b07dae
+
+## Data Viz :
+Redo from : https://towardsdatascience.com/business-intelligence-visualizations-with-python-1d2d30ce8bd9
