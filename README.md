@@ -1,7 +1,8 @@
 # DataScienceTraining
 
 ## Sentiment analysis :
-Redo from : https://towardsdatascience.com/sentiment-analysis-of-a-book-through-unsupervised-learning-df876563dd1b
+AFINN : Redo from : https://towardsdatascience.com/sentiment-analysis-of-a-book-through-unsupervised-learning-df876563dd1b
+TEXTBLOB : Redo from : https://stackabuse.com/sentiment-analysis-in-python-with-textblob/
 
 ## Text summarization :
 Redo from : https://chatbotslife.com/text-summarization-in-python-with-gensim-predictive-hacks-6b3daba0f91c
@@ -14,3 +15,6 @@ Redo from : https://towardsdatascience.com/building-a-movie-recommender-using-py
 
 ## Data Viz :
 Redo from : https://towardsdatascience.com/business-intelligence-visualizations-with-python-1d2d30ce8bd9
+
+## Clustering :
+Redo from : https://towardsdatascience.com/k-means-clustering-in-python-4061510145cc
