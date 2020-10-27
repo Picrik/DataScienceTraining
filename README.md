@@ -18,3 +18,6 @@ Redo from : https://towardsdatascience.com/business-intelligence-visualizations-
 
 ## Clustering :
 Redo from : https://towardsdatascience.com/k-means-clustering-in-python-4061510145cc
+
+## Decision Tree
+Redo from : https://towardsdatascience.com/building-and-visualizing-decision-tree-in-python-2cfaafd8e1bb
