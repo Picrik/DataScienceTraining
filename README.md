@@ -2,6 +2,7 @@
 
 ## Sentiment analysis :
 AFINN : Redo from : https://towardsdatascience.com/sentiment-analysis-of-a-book-through-unsupervised-learning-df876563dd1b
+
 TEXTBLOB : Redo from : https://stackabuse.com/sentiment-analysis-in-python-with-textblob/
 
 ## Text summarization :
