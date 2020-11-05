@@ -22,3 +22,6 @@ Redo from : https://towardsdatascience.com/k-means-clustering-in-python-40615101
 
 ## Decision Tree
 Redo from : https://towardsdatascience.com/building-and-visualizing-decision-tree-in-python-2cfaafd8e1bb
+
+## WebScrapping
+Redo from : https://hackernoon.com/a-beginners-guide-to-webscraping-in-python-ou213ws1
