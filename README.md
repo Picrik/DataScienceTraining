@@ -16,6 +16,7 @@ Redo from : https://towardsdatascience.com/building-a-movie-recommender-using-py
 
 ## Data Viz :
 Redo from : https://towardsdatascience.com/business-intelligence-visualizations-with-python-1d2d30ce8bd9
+Redo from : https://towardsdatascience.com/visualising-data-with-seaborn-who-pays-more-for-health-insurance-200d01892ba5
 
 ## Clustering :
 Redo from : https://towardsdatascience.com/k-means-clustering-in-python-4061510145cc
