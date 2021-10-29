@@ -26,4 +26,8 @@ Redo from : https://towardsdatascience.com/building-and-visualizing-decision-tre
 
 ## WebScrapping
 Redo from : https://hackernoon.com/a-beginners-guide-to-webscraping-in-python-ou213ws1
+
 Redo from : https://www.kdnuggets.com/2021/10/simple-text-scraping-parsing-processing-python-library.html
+
+## Text Processing
+Redo from : https://towardsdatascience.com/preprocessing-text-data-for-machine-learning-6b98f7bb0258
