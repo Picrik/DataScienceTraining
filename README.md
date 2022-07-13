@@ -31,3 +31,6 @@ Redo from : https://www.kdnuggets.com/2021/10/simple-text-scraping-parsing-proce
 
 ## Text Processing
 Redo from : https://towardsdatascience.com/preprocessing-text-data-for-machine-learning-6b98f7bb0258
+
+## PredictingDiabetes
+Redo from : https://towardsdatascience.com/predicting-diabetes-with-machine-learning-part-i-f151cb764aee
